@@ -1,4 +1,3 @@
-using Microsoft.VisualBasic.CompilerServices;
 
 namespace Calculadora;
 
