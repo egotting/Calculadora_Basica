@@ -1,0 +1,14 @@
+/home/ego/projects/Calculadora/bin/Debug/net8.0/Calculadora
+/home/ego/projects/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/home/ego/projects/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/home/ego/projects/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/home/ego/projects/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/home/ego/projects/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/home/ego/projects/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/home/ego/projects/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
